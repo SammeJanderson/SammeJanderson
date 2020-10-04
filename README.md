@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!website]: sammejanderson.github.io
+![website]: sammejanderson.github.io
