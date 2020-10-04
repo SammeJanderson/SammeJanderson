@@ -1,4 +1,4 @@
-### Hi there , I'm Sam [website] 
+### Hi there , I'm [Sam][website] 
 
  🔭 I’m currently working on a API REST to manage a beer stock.
 - 🌱 I’m currently learning everything backend.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -
 -->
 
-![website]: sammejanderson.github.io
+[website]: https://sammejanderson.github.io
