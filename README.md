@@ -1,4 +1,4 @@
-### Hi there , I'm Sam [website] 
+### Hi there , I'm [Sam][website] 
 
 <!--
 **SammeJanderson/SammeJanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![website]: sammejanderson.github.io
+[website]: sammejanderson.github.io
