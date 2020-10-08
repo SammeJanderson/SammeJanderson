@@ -1,4 +1,4 @@
-### Hi there , I'm Sam. I Just started learning.
+### Hi there , I'm [Sam][website]. I Just started learning.
 
 - 🔭 I’m currently working on a API REST to manage a beer stock.
 - 🌱 I’m currently learning everything backend.
@@ -36,4 +36,4 @@
 
 </details>
 
-<!--[website]: https://sammejanderson.github.io-->
+[website]: https://sammejanderson.github.io
