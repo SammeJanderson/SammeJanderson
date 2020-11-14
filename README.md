@@ -1,6 +1,6 @@
 ### Hi there , I'm [Sam][website]. I Just started learning.
 
-- 🔭 I’m currently working on a API REST to manage a beer stock.
+- 🔭 I’m currently working on a pen and paper rpg campaign manager
 - 🌱 I’m currently learning everything backend.
 - 👯 I’m looking to collaborate on anything fun.
 - ⚡ Fun fact: There are two types of people in the world: those who can extrapolate from incomplete data sets
