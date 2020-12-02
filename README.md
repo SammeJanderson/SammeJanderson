@@ -1,4 +1,4 @@
-### Hi there , I'm [Sam][website]. I Just started learning.
+### Hi there , I'm [Sam][website]. I Just started programming.
 
 - 🔭 I’m currently working on a pen and paper rpg campaign manager
 - 🌱 I’m currently learning everything backend.
