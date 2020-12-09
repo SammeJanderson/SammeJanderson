@@ -1,4 +1,4 @@
-### Hi there , I'm [Sam][website]. I Just started programming.
+### Hi there , I'm Sam I Just started programming.
 
 - 🔭 I’m currently working on a pen and paper rpg campaign manager
 - 🌱 I’m currently learning everything backend.
@@ -40,4 +40,4 @@
 
 </details>
 
-[website]: https://sammejanderson.github.io
+<!--[website]: https://sammejanderson.github.io-->
