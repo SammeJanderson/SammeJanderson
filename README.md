@@ -1,6 +1,6 @@
 ### Hi there , I'm Sam I Just started programming.
 
-- 🔭 I’m currently working on a pen and paper rpg campaign manager
+- 🔭 I’m currently working on a [study application][supermemo] based on the Algorithm SM-15
 - 🌱 I’m currently learning everything backend.
 - 👯 I’m looking to collaborate on anything fun.
 - ⚡ Fun fact: There are two types of people in the world: those who can extrapolate from incomplete data sets
@@ -41,3 +41,4 @@
 </details>
 
 <!--[website]: https://sammejanderson.github.io-->
+[supermemo]: https://github.com/SammeJanderson/Supermemory
