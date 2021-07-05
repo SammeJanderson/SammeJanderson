@@ -1,8 +1,7 @@
-### Hi there , I'm Sam I Just started programming.
+### Hi there , I'm Sam.
 
-- 🔭 I’m currently working on a [study application][supermemo] based on the Algorithm SM-15
-- 🌱 I’m currently learning everything backend.
-- 👯 I’m looking to collaborate on anything fun.
+- 🔭 I’m currently working on a reverse search app for recipes
+- 🌱 I’m currently learning dinamic programming.
 - ⚡ Fun fact: There are two types of people in the world: those who can extrapolate from incomplete data sets
 
 
@@ -12,6 +11,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <br />
 
 
@@ -28,16 +28,9 @@
 
 
 <br />
-<br />
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SammeJanderson&show_icons=true&hide_border=true" />
-
-</details>
 
 <!--[website]: https://sammejanderson.github.io-->
 [supermemo]: https://github.com/SammeJanderson/Supermemory
